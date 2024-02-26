@@ -4,24 +4,18 @@ Curriculum Vitae
 
 # Education
 
-* 2023/09 - current 
+* 2023.09 - current 
 Tunghai University - Industrial Engineering and Enterprise Information Department
 * 2022.08 – 2023.07
-Bandung Institute of Technology - Electrical Engineering
-Parahyangan 
+Bandung Institute of Technology - Electrical Engineering 
 * 2009.08 – 2011.07 Parahyangan Catholic University - Bachelor of Engineering
 
 # Work Experience
 
-* 2009.04 – now : Lecturer,
-Faculty of Science and Technology Information
-Parahyangan Catholic University
-* 2021.07 – 2023.08 : Vice Dean for Resource Management
-Faculty of Technology Information and Science
+* 2009.04 – now : Lecturer, Faculty of Science and Technology Information Parahyangan Catholic University
+* 2021.07 – 2023.08 : Vice Dean for Resource Management Faculty of Technology Information and Science
 * 2015.04 – now : Cisco Networking Academy Parahyangan Catholic University Manager
-* 2012.01 – 2016.06 : Head Of Computational Laboratory
-Faculty of Science and Information Technology
-Parahyangan Catholic University.
+* 2012.01 – 2016.06 : Head Of Computational Laboratory Faculty of Science and Information Technology Parahyangan Catholic University
 * 2008.06 – 2008.07 : Network Engineer and System Administrator at Global Solusindo Mandiri Internet Service Provider
 * 2005.08 – 2008.05 : Tehnical Staff (Network Engineer and System Administrator) at Bureau of Information Technology, Parahyangan Catholic University
 
